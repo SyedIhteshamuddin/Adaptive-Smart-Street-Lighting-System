@@ -1,4 +1,4 @@
-[bom.csv](https://github.com/user-attachments/files/27704592/bom.csv)
+
 # Adaptive Smart Street Lighting System
 This is one of my early Arduino + Tinkercad projects while learning embedded systems and automation basics.
 The idea of this project is to simulate a smart street lighting system that automatically changes brightness depending on surrounding light conditions using an LDR sensor.
