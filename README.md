@@ -1,4 +1,4 @@
-```md
+
 # Electrical Circuit Projects
 
 A collection of Arduino and Tinkercad based embedded systems projects built while learning electronics, automation, and sensor-based systems.
@@ -38,18 +38,6 @@ Each project folder contains:
 - Arduino Blocks + C++
 - Sensors and Embedded System Components
 
----
-
-## Goals
-
-Current focus areas include:
-
-- Embedded systems
-- Sensor-based automation
-- Monitoring systems
-- Arduino prototyping
-- Circuit simulation
-- System logic design
 
 This repository will continue growing with more projects and experiments over time.
 ```
